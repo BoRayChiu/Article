@@ -1,6 +1,6 @@
 export class Article {
 
-  id: number;
+  id!: number;
   href: string;
   date: string;
   author: string;
